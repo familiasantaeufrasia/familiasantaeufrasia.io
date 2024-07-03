@@ -1,0 +1,43 @@
+h1{
+	color:hotpink ;
+	font-size: 35px;
+	font-family:Broadway ;
+	text-align: center;
+
+}
+
+
+h3 {
+	color:white ;
+	font-size: 30px;
+	font-family: Times New Roman;
+	background-color:pink ;
+	border-style: solid;
+	border-radius: 15px ;
+	border-color: hotpink;
+
+}
+p {
+	color:hotpink ;
+	font-size: 25px;
+	font-family: Times New Roman;
+	
+}
+b {
+	color:hotpink ;
+	font-size: 25px;
+	font-family: Times New Roman;
+
+}
+
+a {
+	color:pink ;
+	font-size: 20px;
+	font-family: Times New Roman;
+
+}
+
+html { 
+		background-color:lightgoldenrodyellow ;
+
+}
